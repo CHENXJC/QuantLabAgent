@@ -1,0 +1,27 @@
+﻿{
+  "project_name": "QuantLab Agent",
+  "project_version": "0.1.0",
+  "mode": "research_demo",
+  "default_ticker": "SPY",
+  "default_period": "1y",
+  "default_interval": "1d",
+  "dashboard": {
+    "auto_refresh_enabled": false,
+    "refresh_interval_seconds": 300
+  },
+  "modules": {
+    "backtesting": true,
+    "candlestick_analysis": true,
+    "ai_summary": true,
+    "daily_momentum_watchlist": true,
+    "long_term_candidate_pool": true,
+    "telegram_alerts": false,
+    "future_modules": true
+  },
+  "risk_control": {
+    "enable_disclaimer": true,
+    "allow_real_trading": false,
+    "allow_auto_order_execution": false,
+    "allow_personalized_financial_advice": false
+  }
+}

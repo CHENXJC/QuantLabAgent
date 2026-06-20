@@ -1,0 +1,52 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# Reports generated locally
+reports/generated/
+reports/*.html
+reports/*.pdf
+
+# Logs
+logs/
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Sensitive files
+config/private_settings.json
+
+# Local development backups
+local_backups/
+
+# Strict secret and local environment files
+.env
+.env.*
+!.env.example
+
+# Local development backups
+local_backups/
+
+# Python cache folders
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/

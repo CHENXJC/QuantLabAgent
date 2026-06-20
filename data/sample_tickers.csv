@@ -1,0 +1,10 @@
+﻿ticker,name,asset_type,market,category
+SPY,SPDR S&P 500 ETF,ETF,US,core_etf
+QQQ,Invesco QQQ Trust,ETF,US,growth_etf
+VTI,Vanguard Total Stock Market ETF,ETF,US,core_etf
+AAPL,Apple Inc.,Stock,US,large_cap_stock
+MSFT,Microsoft Corporation,Stock,US,large_cap_stock
+NVDA,NVIDIA Corporation,Stock,US,momentum_stock
+TSLA,Tesla Inc.,Stock,US,high_volatility_stock
+BTC-USD,Bitcoin USD,Crypto,Global,crypto_watchlist
+ETH-USD,Ethereum USD,Crypto,Global,crypto_watchlist
