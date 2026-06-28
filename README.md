@@ -332,3 +332,9 @@ This project is for educational, research, and portfolio demonstration purposes 
 Nothing in this project should be interpreted as financial advice, investment recommendation, or trading instruction.
 
 Past performance does not guarantee future results. Backtesting results are based on historical data and may not reflect real market conditions, liquidity constraints, fees, taxes, slippage, or execution risks.
+
+## Managed through AgentHubControlCenter
+
+This project is part of my local-first AI Agent portfolio and can be managed through [AgentHubControlCenter](https://github.com/CHENXJC/AgentHubControlCenter), the central command center for agent manifests, safe actions, useful signals, workflow simulations, connector readiness, approval gates, and public-safe reporting.
+
+QuantLabAgent is registered as a quant research module in AgentHubControlCenter.
